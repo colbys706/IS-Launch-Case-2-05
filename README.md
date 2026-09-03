@@ -1,6 +1,6 @@
 # IS Pathways
 
-A complete static website for information systems students. Includes five career detail pages, a five-question career quiz with scored results, and tailored interview questions. Career details incorporate the supplied IS Career Tracks Guide.
+A complete static website for information systems students. Includes five career detail pages, a five-question career quiz with scored results, and 15 multiple-choice interview questions. Selecting a sample answer reveals its Bad, Good, or Great rating and the explanation from Orientation Brainstorming.pdf. Career details incorporate the supplied IS Career Tracks Guide.
 
 ## Publish with GitHub Pages
 
